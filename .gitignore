@@ -1,0 +1,38 @@
+# 忽略 VS/VC 自动生成文件和临时文件
+*.pdb
+*.ipch
+*.sdf
+*.opensdf
+*.cache
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.obj
+*.log
+*.tmp
+
+# 忽略 .vs 目录和构建输出
+.vs/
+build/
+bin/
+obj/
+Debug*/
+Release*/
+*.exe
+
+# 忽略 CMake、Xcode、Android Studio 临时文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.xcworkspace
+*.xcuserstate
+.gradle/
+.idea/
+*.iml
+*.apk
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
