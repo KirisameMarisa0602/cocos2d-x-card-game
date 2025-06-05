@@ -1,0 +1,17 @@
+D:\cocosProjects\CardGame\cocos2d\external\recast\DebugUtils\DebugDraw.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DebugDraw.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\DebugUtils\DetourDebugDraw.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourDebugDraw.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\DetourCrowd\DetourCrowd.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourCrowd.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\DetourCrowd\DetourLocalBoundary.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourLocalBoundary.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\DetourCrowd\DetourObstacleAvoidance.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourObstacleAvoidance.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\DetourCrowd\DetourPathCorridor.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourPathCorridor.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\DetourCrowd\DetourPathQueue.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourPathQueue.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\DetourCrowd\DetourProximityGrid.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourProximityGrid.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\DetourTileCache\DetourTileCache.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourTileCache.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\DetourTileCache\DetourTileCacheBuilder.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourTileCacheBuilder.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\Detour\DetourAlloc.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourAlloc.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\Detour\DetourCommon.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourCommon.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\Detour\DetourNavMesh.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMesh.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\Detour\DetourNavMeshBuilder.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMeshBuilder.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\Detour\DetourNavMeshQuery.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourNavMeshQuery.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\Detour\DetourNode.cpp;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\DetourNode.obj
+D:\cocosProjects\CardGame\cocos2d\external\recast\fastlz\fastlz.c;D:\cocosProjects\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\fastlz.obj
